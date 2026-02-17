@@ -4,7 +4,7 @@ plugins {
 }
 
 group = project.findProperty("GROUP") as? String ?: "com.github.abrarshakhi"
-version = "1.0.0"
+//version = "1.0.0"
 
 repositories {
     mavenCentral()
