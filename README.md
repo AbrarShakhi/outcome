@@ -65,7 +65,7 @@ repositories {
 
 ### Step 2: Add the dependency
 
-Replace `<version>` with a release tag (e.g., `1.0-0`):
+Replace `<version>` with a release tag (e.g., `1.0-1`):
 
 ```kotlin
 dependencies {
@@ -76,7 +76,7 @@ dependencies {
 Example:
 
 ```kotlin
-implementation("com.github.abrarshakhi:outcome:1.0-0")
+implementation("com.github.abrarshakhi:outcome:1.0-1")
 ```
 
 ---
